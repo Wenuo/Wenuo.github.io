@@ -16,9 +16,11 @@ defaults:
 
 title: Wenuo's Blog
 name: Wenuo
-description: HAHAH is a jekyll theme for minimalist
-
+description: Simple Life
+copyright_time: 2019
+url: https://Wenuo.github.io
 github: https://github.com/Wenuo
+email: mailto:yeaoyu991219@gmail.com
 rss: false
 
 plugins:

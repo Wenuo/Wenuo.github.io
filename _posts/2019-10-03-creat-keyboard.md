@@ -1,7 +1,7 @@
 ---
 title: "自制机械键盘"
 date: 2019-10-03 14:30:23 +0800
-category: Wenuo
+category: Keyboard
 tags: Technology
 excerpt: 本文主要讲述68机械键盘的制作过程。
 ---
